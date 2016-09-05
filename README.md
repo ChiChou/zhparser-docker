@@ -1,6 +1,6 @@
 # zhparser-docker
 
-PostgreSQL with Chinese segment support.
+PostgreSQL with Chinese word segmentation support.
 
 ## Build
 
