@@ -1,9 +1,5 @@
 # zhparser-docker
 
-PostgreSQL with Chinese word segmentation support.
+PostgreSQL 9.6 并预装中文分词插件 zhparser 1.2.3
 
-## Build
-
-You must have `unzip`, `wget`, `tar` on your host machine. Run `./build.sh` to build the`postgresql-zhparser` docker image.
-
-After build progress is done, use `docker images` to list all avaliable images. 
+用法：`docker build .`
